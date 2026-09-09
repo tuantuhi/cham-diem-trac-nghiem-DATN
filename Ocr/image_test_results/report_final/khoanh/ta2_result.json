@@ -1,0 +1,123 @@
+[
+  {
+    "question_index": 18,
+    "choice": "B",
+    "bbox": [
+      770.0,
+      274.5,
+      817.1,
+      332.7
+    ],
+    "confidence": 0.92
+  },
+  {
+    "question_index": 19,
+    "choice": "D",
+    "bbox": [
+      1354.4,
+      312.9,
+      1406.1,
+      382.4
+    ],
+    "confidence": 0.9
+  },
+  {
+    "question_index": 21,
+    "choice": "B",
+    "bbox": [
+      761.6,
+      483.5,
+      811.9,
+      549.7
+    ],
+    "confidence": 0.9
+  },
+  {
+    "question_index": 22,
+    "choice": "B",
+    "bbox": [
+      632.4,
+      638.6,
+      688.8,
+      699.4
+    ],
+    "confidence": 0.91
+  },
+  {
+    "question_index": 23,
+    "choice": null,
+    "bbox": [
+      974.2,
+      726.7,
+      1025.2,
+      782.7
+    ],
+    "confidence": 0.9
+  },
+  {
+    "question_index": 24,
+    "choice": "B",
+    "bbox": [
+      637.6,
+      878.3,
+      680.2,
+      931.7
+    ],
+    "confidence": 0.77
+  },
+  {
+    "question_index": 25,
+    "choice": "D",
+    "bbox": [
+      1297.8,
+      967.1,
+      1354.8,
+      1032.7
+    ],
+    "confidence": 0.9
+  },
+  {
+    "question_index": 26,
+    "choice": "B",
+    "bbox": [
+      743.4,
+      1495.5,
+      793.9,
+      1560.2
+    ],
+    "confidence": 0.9
+  },
+  {
+    "question_index": 27,
+    "choice": "D",
+    "bbox": [
+      1340.4,
+      1549.6,
+      1380.8,
+      1592.5
+    ],
+    "confidence": 0.91
+  },
+  {
+    "question_index": 28,
+    "choice": "C",
+    "bbox": [
+      1043.8,
+      1576.6,
+      1089.2,
+      1620.6
+    ],
+    "confidence": 0.89
+  },
+  {
+    "question_index": 30,
+    "choice": "A",
+    "bbox": [
+      439.3,
+      1645.7,
+      486.8,
+      1701.0
+    ],
+    "confidence": 0.87
+  }
+]
