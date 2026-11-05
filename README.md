@@ -11,7 +11,7 @@
 - Backend & API Routing (FastAPI): Triển khai trong tệp app.py, chịu trách nhiệm phơi bày các API endpoint (/predict, /grade) hỗ trợ gửi ảnh lên để nhận diện đơn lẻ hoặc xử lý hàng loạt. Module này dùng Pydantic (AnswerKey) để cấu trúc hóa và kiểm tra tính hợp lệ của đáp án chuẩn.  
 - Web Dashboard (Flask): Ứng dụng giao diện Web được đặt trong web_server.py. Phân hệ này quản lý luồng người dùng tạo phiếu, tải ảnh lên giao diện, tự động dọn dẹp các tệp ảnh/json cũ, và render bảng phân tích chi tiết kết quả đúng/sai ra màn hình.
 
-  🧠 3. Luồng Xử Lý Dữ Liệu và Trí Tuệ Nhân Tạo 
+🧠 3. Luồng Xử Lý Dữ Liệu và Trí Tuệ Nhân Tạo 
 Hệ thống cho phép người dùng hoặc hệ thống gọi đến một trong hai luồng xử lý độc lập:
 - Luồng 1: Xử lý Quang học OMR Dựa Trên Khuôn Mẫu
     Dò tìm điểm chuẩn: Ảnh đầu vào được chuyển sang ảnh xám, áp dụng bộ lọc CLAHE và phân ngưỡng Otsu để quét tìm 4 khối đen đạt chuẩn về diện tích và độ đặc ở 4 góc.   
